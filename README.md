@@ -1,4 +1,4 @@
-# Descriptive-Answer-Checking
+# Descriptive Answer Checking
 
 A standalone application to check descriptive answers. Human-like evaluation is done on the basis of three criteria like:
 1. Word Length
