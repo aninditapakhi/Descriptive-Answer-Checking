@@ -1,0 +1,7 @@
+In the predictive or supervised learning approach, the goal is to learn a mapping from inputs x to outputs y.
+Given a predictive set of input-output pairs,Here D is called the training set, and N is the number of training examples,xi is called as feature, attribute or covariate.
+Output or response variable can in principle be anything, but most predictive methods assume that yi is a categorical or nominal variable from some finite set, 
+or that yi is a real-valued(such as income level).
+When yi is categorical, the problem is known as classification or pattern recognition or predictive.
+When yi is real-valued, the problem is known as regression non predictive.
+Another predictive, known as ordinal regression, occurs where label space Y has some natural ordering, such as grades A–F.
